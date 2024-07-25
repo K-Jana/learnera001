@@ -1,7 +1,6 @@
-import 'package:best_flutter_ui_templates/app_theme.dart';
-import 'package:best_flutter_ui_templates/custom_drawer/drawer_user_controller.dart';
-import 'package:best_flutter_ui_templates/custom_drawer/home_drawer.dart';
-import 'package:best_flutter_ui_templates/invite_friend_screen.dart';
+import 'package:learnera/app_theme.dart';
+import 'package:learnera/custom_drawer/drawer_user_controller.dart';
+import 'package:learnera/custom_drawer/home_drawer.dart';
 import 'package:flutter/material.dart';
 import 'package:learnera/chatbot.dart';
 import 'package:learnera/home_screen.dart';

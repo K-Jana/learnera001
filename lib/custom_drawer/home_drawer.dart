@@ -1,5 +1,5 @@
-import 'package:best_flutter_ui_templates/app_theme.dart';
-import 'package:flutter/material.dart';
+import 'flutter/app_theme.dart';
+import 'flutter/material.dart';
 
 class HomeDrawer extends StatefulWidget {
   const HomeDrawer(
