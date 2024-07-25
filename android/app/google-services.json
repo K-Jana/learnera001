@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130823842909",
+    "project_id": "learnera-e24df",
+    "storage_bucket": "learnera-e24df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130823842909:android:d76a2cbb640040da6271b4",
+        "android_client_info": {
+          "package_name": "com.example.learnera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlw4PchI4MR0BftZyLGnfss7PyA0gsqUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
